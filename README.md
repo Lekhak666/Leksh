@@ -149,7 +149,7 @@ While building Leksh, I learned:
 
 ## 🤝 Contributing
 
-Contributions, ideas, and suggestions are welcome.
+Contributions, ideas, and suggestions are welcome, so keep them coming.
 
 Fork the repo and submit a pull request 🚀
 
